@@ -1,6 +1,6 @@
 # KatasLili_LaunchX
 Proceso de la realizacion del ejercicio 2
 Activando el entorno virtual
-(https://innovaccion-my.sharepoint.com/:i:/g/personal/launchx00030_innovaccion_mx/EWHS3fNCu-9PneX7_4AZpIEBUuRs3I8MgO_9k31s9FGdlw?e=3GEVnl)
+![image](https://github.com/LiliPraxedis/KatasLili_LaunchX/blob/14e0a00c1cb9b9a93546a4eef8e0c353c7e8b749/Activar.png)
 Desactivando el entorno virtual
-(https://innovaccion-my.sharepoint.com/:i:/g/personal/launchx00030_innovaccion_mx/EaPsRxwOGrpLqZB-Ibc5WT8BS4aWwXMfXUBC1Ph-lV6Kxg?e=2XIfG3)
+![image](https://github.com/LiliPraxedis/KatasLili_LaunchX/blob/14e0a00c1cb9b9a93546a4eef8e0c353c7e8b749/desactivar.png)
